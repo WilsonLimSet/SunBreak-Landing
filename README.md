@@ -64,8 +64,8 @@ This site is configured for automatic deployment on Vercel:
 ## 📧 Contact
 
 - **Twitter**: [@WilsonLimSet](https://x.com/WilsonLimSet)
-- **Website**: https://getsunbreak.com
+- **Website**: [https://getsunbreak.com](https://www.getsunbreak.com/)
 
 ## 📄 License
 
-© 2024 Sunbreak. All rights reserved.
+© 2025 Sunbreak. All rights reserved.
